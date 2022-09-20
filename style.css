@@ -1,0 +1,48 @@
+*{
+    /* background-color:rgb(226, 212, 191); */
+}
+
+
+
+body{
+    border:1px solid rgb(252, 235, 235);
+    border-radius: 10px;
+    width:600px ;
+    height:400px;
+    margin:auto;
+    margin-top: 80px;
+    /* padding: 50px 50px; */
+}
+.images{
+    width: 300px;
+    height:px ;
+    border-radius: 10px 0px 0px 5px;
+}
+.whole{
+    display: flex;
+    
+}
+.whole2{
+padding: 1px 40px 30px 50px;
+}
+.cash{
+    display: flex;
+}
+.money{
+    /* margin-bottom: 50rem; */
+    text-decoration: line-through;
+    margin-left: 30px;
+}
+.money1{
+/* margin-bottom: 50px; */
+    color: green;
+}
+button{
+ width: 200px; 
+ height: 25.9px ; 
+ background-color:green ;
+ color: white;
+ border-radius: 5px;
+ margin-bottom: 500px;
+ border: 1px solid green;
+}
